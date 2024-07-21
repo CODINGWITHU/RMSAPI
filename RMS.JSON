@@ -10,40 +10,7 @@
         "6": "https://www.instagram.com"
       }      
     },
-    "Syllabus" : "https://drive.google.com/file/d/10VuguT9s9MrJyajh2DliMfjK4JgIhSMD/view?usp=sharing",
-    "Mcq" : [{
-      "question": "Which of the following is a client site language?",
-        "a": "Java",
-        "b": "C",
-        "c": "Python",
-        "d": "JavaScript",
-        "correct": "d"
-    },
-    {
-        "question": "What does HTML stand for?",
-        "a": "Hypertext Markup Language",
-        "b": "Cascading Style Sheet",
-        "c": "Jason Object Notation",
-        "d": "Helicopters Terminals Motorboats Lamborginis",
-        "correct": "a"
-    },
-    {
-        "question": "What year was JavaScript launched?",
-        "a": "1996",
-        "b": "1995",
-        "c": "1994",
-        "d": "none of the above",
-        "correct": "b"
-    },
-    {
-        "question": "What does CSS stands for?",
-        "a": "Hypertext Markup Language",
-        "b": "Cascading Style Sheet",
-        "c": "Jason Object Notation",
-        "d": "Helicopters Terminals Motorboats Lamborginis",
-        "correct": "b"
-    }
-  ]
+    "Syllabus" : "https://drive.google.com/file/d/10VuguT9s9MrJyajh2DliMfjK4JgIhSMD/view?usp=sharing"
     },
     "CSE111 ORIENTATION TO COMPUTING-I": {
       "Notes": {
@@ -78,9 +45,9 @@
         "4": "https://drive.google.com/file/d/10LzV9ExQtzKgSqeX3SQkyQorMoznOMUK/view?usp=sharing",
         "5": "https://www.instagram.com",
         "6": "https://www.instagram.com"
-      },
-      "Syllabus" : "https://drive.google.com/file/d/1rlmltp1j0H5LzGlCKgbdJyzlkF7qZXWq/view?usp=sharing"
-    }
+      }
+    },
+    "Syllabus" : "https://drive.google.com/file/d/1rlmltp1j0H5LzGlCKgbdJyzlkF7qZXWq/view?usp=sharing"
     },
     "ECE279 BASIC ELECTRICAL AND ELECTRONICS ENGINEERING LABORATORY": {
       "Notes": {
@@ -91,9 +58,9 @@
         "4": "https://drive.google.com/file/d/10LzV9ExQtzKgSqeX3SQkyQorMoznOMUK/view?usp=sharing",
         "5": "https://www.instagram.com",
         "6": "https://www.instagram.com"
-      }, 
-      "Syllabus" : "https://drive.google.com/file/d/1S1A7NbfAjrD_cKYhKcdb7dRfG-f4441j/view?usp=sharing"
-    }
+      }
+    },
+    "Syllabus" : "https://drive.google.com/file/d/1S1A7NbfAjrD_cKYhKcdb7dRfG-f4441j/view?usp=sharing"
     },
     "INT108 PYTHON PROGRAMMING": {
       "Notes": {
@@ -116,9 +83,9 @@
         "4": "https://drive.google.com/file/d/10LzV9ExQtzKgSqeX3SQkyQorMoznOMUK/view?usp=sharing",
         "5": "https://www.instagram.com",
         "6": "https://www.instagram.com"
-      },
-      "Syllabus" : "https://drive.google.com/file/d/1YEL_pYJ1EadagWZ2mmIeI4ECU9w8bDWV/view?usp=sharing"
-    }
+      }
+    },
+    "Syllabus" : "https://drive.google.com/file/d/1YEL_pYJ1EadagWZ2mmIeI4ECU9w8bDWV/view?usp=sharing"
     },
     "MEC136 ENGINEERING GRAPHICS AND DIGITAL FABRICATION": {
       "Notes": {
@@ -129,9 +96,9 @@
         "4": "https://drive.google.com/file/d/10LzV9ExQtzKgSqeX3SQkyQorMoznOMUK/view?usp=sharing",
         "5": "https://www.instagram.com",
         "6": "https://www.instagram.com"
-      },
-      "Syllabus" : "https://drive.google.com/file/d/1VBH_dELQNb6iV2K9nt9hrC3FlF-M033f/view?usp=sharing"
-    }
+      }      
+    },
+    "Syllabus" : "https://drive.google.com/file/d/1VBH_dELQNb6iV2K9nt9hrC3FlF-M033f/view?usp=sharing"
     },
     "MTH174 ENGINEERING MATHEMATICS": {
       "Notes": {
@@ -142,9 +109,9 @@
         "4": "https://drive.google.com/file/d/10LzV9ExQtzKgSqeX3SQkyQorMoznOMUK/view?usp=sharing",
         "5": "https://www.instagram.com",
         "6": "https://www.instagram.com"
-      },
-      "Syllabus" : "https://drive.google.com/file/d/1DkO41RjeIPCiswckIF7aLsAnrylwqI4u/view?usp=sharing"
-    }
+      }
+    },
+    "Syllabus" : "https://drive.google.com/file/d/1DkO41RjeIPCiswckIF7aLsAnrylwqI4u/view?usp=sharing"
     },
     "MTH401 DISCRETE MATHEMATICS": {
       "Notes": {
@@ -155,9 +122,9 @@
         "4": "https://drive.google.com/file/d/10LzV9ExQtzKgSqeX3SQkyQorMoznOMUK/view?usp=sharing",
         "5": "https://www.instagram.com",
         "6": "https://www.instagram.com"
-      },
-      "Syllabus" : "https://drive.google.com/file/d/1IGmHa6JvnhSiagrZTKGbRqFVYX2lAA_h/view?usp=sharing"
-    }
+      }      
+    },
+    "Syllabus" : "https://drive.google.com/file/d/1IGmHa6JvnhSiagrZTKGbRqFVYX2lAA_h/view?usp=sharing"
     },
     "PES318 SOFT SKILLS-I": {
       "Notes": {
@@ -180,9 +147,9 @@
         "4": "https://drive.google.com/file/d/10LzV9ExQtzKgSqeX3SQkyQorMoznOMUK/view?usp=sharing",
         "5": "https://www.instagram.com",
         "6": "https://www.instagram.com"
-      },
-      "Syllabus" : "https://drive.google.com/file/d/1uX1JiRFvGt7hEMOv88UPVgmXVPamkTNd/view?usp=sharing"
-    }
+      } 
+    },
+    "Syllabus" : "https://drive.google.com/file/d/1uX1JiRFvGt7hEMOv88UPVgmXVPamkTNd/view?usp=sharing"
     }
   }
 
