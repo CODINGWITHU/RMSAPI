@@ -217,26 +217,131 @@
   },
   "MTH401 DISCRETE MATHEMATICS": {
       "MCQs": [
-          {
-              "question": "Which of the following is a type of graph in discrete mathematics?",
-              "options": [
-                  "Bar Graph",
-                  "Line Graph",
-                  "Tree Graph",
-                  "Pie Chart"
-              ],
-              "answer": "Tree Graph"
-          },
-          {
-              "question": "The value of Delta is",
-              "options": [
-                  "24",
-                  "120",
-                  "0",
-                  "4"
-              ],
-              "answer": "24"
+        {
+            "Q1": [
+              {
+                "question": "The value of Δ⁵{x⁴ + 5x³ – 6x + 10} is",
+                "options": {
+                  "a": "24",
+                  "b": "120",
+                  "c": "0",
+                  "d": "4"
+                },
+                "answer": "c"
+              },
+              {
+                "question": "The value of Δ(2x + 1)², with h=1, is",
+                "options": {
+                  "a": "(x + 2)",
+                  "b": "4(x + 2)",
+                  "c": "4(x + 1)",
+                  "d": "(x² + 2)"
+                },
+                "answer": "b"
+              },
+              {
+                "question": "The value of Δ²E³x is",
+                "options": {
+                  "a": "5",
+                  "b": "6",
+                  "c": "0",
+                  "d": "1"
+                },
+                "answer": "c"
+              },
+              {
+                "question": "The functions 2ⁿ sin kθ, 2ⁿ cos kθ are linearly independent, if",
+                "options": {
+                  "a": "θ = nπ, n ∈ ℤ",
+                  "b": "θ ≠ nπ, n ∈ ℤ",
+                  "c": "θ = 2nπ, n ∈ ℤ",
+                  "d": "θ = nπ / 2, n ∈ ℤ"
+                },
+                "answer": "b"
+              },
+              {
+                "question": "The particular solution of the difference equation yₖ₊₂ - 4yₖ₊₁ + 4yₖ = 0 such that y₀ = 1 and y₁ = 3 is",
+                "options": {
+                  "a": "2ᵏ (1 + k²)",
+                  "b": "2ᵏ (1 - k / 2)",
+                  "c": "2ᵏ",
+                  "d": "2ᵏ (2 + k / 2)"
+                },
+                "answer": "a"
+              },
+              {
+                "question": "According to method of undetermined coefficients, the trial solution for R(k) = βᵏ is",
+                "options": {
+                  "a": "Aβᵏ",
+                  "b": "(A + B)βᵏ",
+                  "c": "(A - B)βᵏ",
+                  "d": "(Aβ)βᵏ"
+                },
+                "answer": "a"
+              },
+              {
+                "question": "According to method of undetermined coefficients, the trial solution for R(k) = sin αk is",
+                "options": {
+                  "a": "A sin αk",
+                  "b": "A cos αk + B sin αk",
+                  "c": "A cos αk",
+                  "d": "A² cos αk - B² sin αk"
+                },
+                "answer": "b"
+              },
+              {
+                "question": "According to method of undetermined coefficients, the trial solution for polynomial P(k) of degree 2 is",
+                "options": {
+                  "a": "A₀k² + A₁k + A₂",
+                  "b": "A₀k² + A₁",
+                  "c": "A₀k²",
+                  "d": "A₀k + A₁"
+                },
+                "answer": "a"
+              },
+              {
+                "question": "Let A={1,2,3,4,6}. Let R be the relation on A defined by {(a,b):a∈A, b∈A, a divides b}. Range of R is",
+                "options": {
+                  "a": "{1,2,3,4,6}",
+                  "b": "{1,3,4,6}",
+                  "c": "{1,2,3,6}",
+                  "d": "∅"
+                },
+                "answer": "c"
+              },
+              {
+                "question": "Let A={x,y} and B={1,2}. Find the number of relations from A into B.",
+                "options": {
+                  "a": "16",
+                  "b": "32",
+                  "c": "64",
+                  "d": "128"
+                },
+                "answer": "c"
+              },
+              {
+                "question": "Let A={1,2,3,4}. Let R be the relation on A defined by {(a,b):a∈A, b∈A, a<b}. Which of the following is false",
+                "options": {
+                  "a": "R is not reflexive",
+                  "b": "R is transitive",
+                  "c": "R is transitive but not reflexive",
+                  "d": "R is equivalence relation"
+                },
+                "answer": "d"
+              },
+              {
+                "question": "The 'Subset' relation on set of sets is",
+                "options": {
+                  "a": "A partial ordering",
+                  "b": "An equivalence relation",
+                  "c": "Transitive and symmetric only",
+                  "d": "Transitive and anti-symmetric only"
+                },
+                "answer": "d"
+              }
+            ]
           }
+          
       ]
   },
   "PES318 SOFT SKILLS-I": {
