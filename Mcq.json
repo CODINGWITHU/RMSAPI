@@ -225,7 +225,7 @@
                    "0",
                    "4"
                 ],
-                "answer": "c"
+                "answer": "0"
               },
               {
                 "question": "The value of Δ(2x + 1)², with h=1, is",
@@ -235,7 +235,7 @@
                    "4(x + 1)",
                    "(x² + 2)"
                 ],
-                "answer": "b"
+                "answer": "4(x + 2)"
               },
               {
                 "question": "The value of Δ²E³x is",
@@ -245,7 +245,7 @@
                    "0",
                    "1"
                 ],
-                "answer": "c"
+                "answer": "0"
               },
               {
                 "question": "The functions 2ⁿ sin kθ, 2ⁿ cos kθ are linearly independent, if",
@@ -255,7 +255,7 @@
                    "θ = 2nπ, n ∈ ℤ",
                    "θ = nπ / 2, n ∈ ℤ"
                 ],
-                "answer": "b"
+                "answer": "θ ≠ nπ, n ∈ ℤ"
               },
               {
                 "question": "The particular solution of the difference equation yₖ₊₂ - 4yₖ₊₁ + 4yₖ = 0 such that y₀ = 1 and y₁ = 3 is",
@@ -265,7 +265,7 @@
                    "2ᵏ",
                    "2ᵏ (2 + k / 2)"
                 ],
-                "answer": "a"
+                "answer": "2ᵏ (1 + k²)"
               },
               {
                 "question": "According to method of undetermined coefficients, the trial solution for R(k) = βᵏ is",
@@ -275,7 +275,7 @@
                    "(A - B)βᵏ",
                    "(Aβ)βᵏ"
                 ],
-                "answer": "a"
+                "answer": "Aβᵏ"
               },
               {
                 "question": "According to method of undetermined coefficients, the trial solution for R(k) = sin αk is",
@@ -285,7 +285,7 @@
                    "A cos αk",
                    "A² cos αk - B² sin αk"
                 ],
-                "answer": "b"
+                "answer": "A cos αk + B sin αk"
               },
               {
                 "question": "According to method of undetermined coefficients, the trial solution for polynomial P(k) of degree 2 is",
@@ -295,7 +295,7 @@
                    "A₀k²",
                    "A₀k + A₁"
                 ],
-                "answer": "a"
+                "answer": "A₀k² + A₁k + A₂"
               },
               {
                 "question": "Let A={1,2,3,4,6}. Let R be the relation on A defined by {(a,b):a∈A, b∈A, a divides b}. Range of R is",
@@ -305,7 +305,7 @@
                   "{1,2,3,6}",
                   "∅"
                 ],
-                "answer": "c"
+                "answer": "{1,2,3,6}"
               },
               {
                 "question": "Let A={x,y} and B={1,2}. Find the number of relations from A into B.",
@@ -315,7 +315,7 @@
                    "64",
                    "128"
                 ],
-                "answer": "c"
+                "answer": "64"
               },
               {
                 "question": "Let A={1,2,3,4}. Let R be the relation on A defined by {(a,b):a∈A, b∈A, a<b}. Which of the following is false",
@@ -325,7 +325,7 @@
                    "R is transitive but not reflexive",
                    "R is equivalence relation"
                 ],
-                "answer": "d"
+                "answer": "R is equivalence relation"
               },
               {
                 "question": "The 'Subset' relation on set of sets is",
@@ -335,7 +335,7 @@
                    "Transitive and symmetric only",
                    "Transitive and anti-symmetric only"
               ],
-                "answer": "d"
+                "answer": "Transitive and anti-symmetric only"
               }
             ]        
   },
