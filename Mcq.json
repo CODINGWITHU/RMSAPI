@@ -218,8 +218,6 @@
   "MTH401 DISCRETE MATHEMATICS": {
       "MCQs": [
         {
-            "Q1": [
-              {
                 "question": "The value of Δ⁵{x⁴ + 5x³ – 6x + 10} is",
                 "options": {
                   "a": "24",
@@ -339,10 +337,7 @@
                 },
                 "answer": "d"
               }
-            ]
-          }
-          
-      ]
+            ]        
   },
   "PES318 SOFT SKILLS-I": {
       "MCQs": [
