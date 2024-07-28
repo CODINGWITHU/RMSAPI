@@ -23,6 +23,30 @@
           }
       ]
   },
+  "CSE101 COMPUTER PROGRAMMING": {
+      "MCQs": [
+          {
+              "question": "What is the main objective of environmental studies?",
+              "options": [
+                  "To study the effects of pollution",
+                  "To understand environmental policies",
+                  "To promote sustainable development",
+                  "To manage natural resources"
+              ],
+              "answer": "To promote sustainable development"
+          },
+          {
+              "question": "Which of the following is a renewable resource?",
+              "options": [
+                  "Coal",
+                  "Natural Gas",
+                  "Solar Energy",
+                  "Nuclear Energy"
+              ],
+              "answer": "Solar Energy"
+          }
+      ]
+  },
   "CSE111 ORIENTATION TO COMPUTING-I": {
       "MCQs": [
           {
@@ -339,7 +363,7 @@
               }
             ]        
   },
-  "PES318 SOFT SKILLS-I": {
+  "CSE320 SOFTWARE ENGINEERING": {
       "MCQs": [
           {
               "question": "Which of the following is an example of a soft skill?",
