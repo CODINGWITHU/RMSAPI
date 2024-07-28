@@ -95,7 +95,7 @@
         "chapters": {
         "1": "https://www.instagram.com",
         "2": "https://www.instagram/anshjaiswal11.com",
-        "3": "/files/ece249sylbass.pdf",
+        "3": "https://drive.google.com/file/d/1hF-snxiwYBGJAIRaf3lTfK1xcsiIxBw3/view?usp=sharing",
         "4": "https://drive.google.com/file/d/10LzV9ExQtzKgSqeX3SQkyQorMoznOMUK/view?usp=sharing",
         "5": "https://www.instagram.com",
         "6": "https://drive.google.com/file/d/1iyBQG6X37n4uBczlzqAFRuMGBXMXlK2h/view?usp=sharing"
@@ -150,6 +150,19 @@
         "3": "https://drive.google.com/file/d/1qZE2e69RDigk078B81emrbwhipKpTE9V/view?usp=sharing",
         "4": "https://drive.google.com/file/d/1INfn-xCXz9p64uYA-yRe-0yXM6MOeJat/view?usp=sharing",
         "5": "https://www.instagram.com",
+        "6": "https://www.instagram.com"
+      } 
+    },
+    "Syllabus" : "https://drive.google.com/file/d/1uX1JiRFvGt7hEMOv88UPVgmXVPamkTNd/view?usp=sharing"
+    }
+"CSE101 COMPUTER PROGRAMMING": {
+      "Notes": {
+        "chapters": {
+        "1": "https://drive.google.com/file/d/1zb3KQBZcaYiygKhjmaHRFZz3Kaou_uDF/view?usp=sharing",
+        "2": "https://drive.google.com/file/d/1KaW7wOP3Qxljrly0DHzQTOGFn48UjDyB/view?usp=sharing",
+        "3": "https://drive.google.com/file/d/1qZE2e69RDigk078B81emrbwhipKpTE9V/view?usp=sharing",
+        "4": "https://drive.google.com/file/d/1INfn-xCXz9p64uYA-yRe-0yXM6MOeJat/view?usp=sharing",
+        "5": "https://drive.google.com/file/d/1fpJFNMbdw0b5-RLFl5hXdNG4xoQRgWUh/view?usp=drive_link",
         "6": "https://www.instagram.com"
       } 
     },
