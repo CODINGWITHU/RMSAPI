@@ -1,414 +1,1042 @@
 {
   "CHE110 ENVIRONMENTAL STUDIES ENGINEERING": {
-      "MCQs": [
-          {
-              "question": "What is the main objective of environmental studies?",
-              "options": [
-                  "To study the effects of pollution",
-                  "To understand environmental policies",
-                  "To promote sustainable development",
-                  "To manage natural resources"
-              ],
-              "answer": "To promote sustainable development"
-          },
-          {
-              "question": "Which of the following is a renewable resource?",
-              "options": [
-                  "Coal",
-                  "Natural Gas",
-                  "Solar Energy",
-                  "Nuclear Energy"
-              ],
-              "answer": "Solar Energy"
-          }
-      ]
+    "MCQs": [
+      {
+        "question": "What is the main objective of environmental studies?",
+        "options": [
+          "To study the effects of pollution",
+          "To understand environmental policies",
+          "To promote sustainable development",
+          "To manage natural resources"
+        ],
+        "answer": "To promote sustainable development"
+      },
+      {
+        "question": "Which of the following is a renewable resource?",
+        "options": [
+          "Coal",
+          "Natural Gas",
+          "Solar Energy",
+          "Nuclear Energy"
+        ],
+        "answer": "Solar Energy"
+      },
+      {
+        "question": "What is the primary source of energy for photosynthesis?",
+        "options": [
+          "Water",
+          "Carbon Dioxide",
+          "Sunlight",
+          "Soil"
+        ],
+        "answer": "Sunlight"
+      },
+      {
+        "question": "Which gas is most responsible for global warming?",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "answer": "Carbon Dioxide"
+      },
+      {
+        "question": "What is the purpose of a carbon footprint analysis?",
+        "options": [
+          "To measure the amount of waste produced",
+          "To evaluate energy consumption",
+          "To calculate the impact of activities on the environment",
+          "To assess water usage"
+        ],
+        "answer": "To calculate the impact of activities on the environment"
+      },
+      {
+        "question": "Which of the following is a non-renewable resource?",
+        "options": [
+          "Wind Energy",
+          "Geothermal Energy",
+          "Coal",
+          "Solar Energy"
+        ],
+        "answer": "Coal"
+      },
+      {
+        "question": "What does the term 'sustainable development' refer to?",
+        "options": [
+          "Developing technology at any cost",
+          "Meeting present needs without compromising future generations",
+          "Increasing industrial output",
+          "Reducing costs in production"
+        ],
+        "answer": "Meeting present needs without compromising future generations"
+      },
+      {
+        "question": "Which international agreement aims to combat climate change?",
+        "options": [
+          "Kyoto Protocol",
+          "NAFTA",
+          "Paris Agreement",
+          "WTO Agreement"
+        ],
+        "answer": "Paris Agreement"
+      },
+      {
+        "question": "What is the main focus of environmental impact assessments?",
+        "options": [
+          "Economic benefits",
+          "Social equity",
+          "Potential environmental consequences of projects",
+          "Legal implications"
+        ],
+        "answer": "Potential environmental consequences of projects"
+      },
+      {
+        "question": "Which organization is known for setting international environmental standards?",
+        "options": [
+          "ISO",
+          "FDA",
+          "WHO",
+          "UNESCO"
+        ],
+        "answer": "ISO"
+      }
+    ]
   },
   "CSE101 COMPUTER PROGRAMMING": {
-      "MCQs": [
-          {
-              "question": "What is the main objective of environmental studies?",
-              "options": [
-                  "To study the effects of pollution",
-                  "To understand environmental policies",
-                  "To promote sustainable development",
-                  "To manage natural resources"
-              ],
-              "answer": "To promote sustainable development"
-          },
-          {
-              "question": "Which of the following is a renewable resource?",
-              "options": [
-                  "Coal",
-                  "Natural Gas",
-                  "Solar Energy",
-                  "Nuclear Energy"
-              ],
-              "answer": "Solar Energy"
-          }
-      ]
+    "MCQs": [
+      {
+        "question": "What is the main objective of environmental studies?",
+        "options": [
+          "To study the effects of pollution",
+          "To understand environmental policies",
+          "To promote sustainable development",
+          "To manage natural resources"
+        ],
+        "answer": "To promote sustainable development"
+      },
+      {
+        "question": "Which of the following is a renewable resource?",
+        "options": [
+          "Coal",
+          "Natural Gas",
+          "Solar Energy",
+          "Nuclear Energy"
+        ],
+        "answer": "Solar Energy"
+      },
+      {
+        "question": "What is the purpose of a compiler?",
+        "options": [
+          "To execute programs directly",
+          "To translate high-level code into machine code",
+          "To manage system memory",
+          "To handle user input"
+        ],
+        "answer": "To translate high-level code into machine code"
+      },
+      {
+        "question": "Which data structure uses LIFO order?",
+        "options": [
+          "Queue",
+          "Stack",
+          "Array",
+          "Linked List"
+        ],
+        "answer": "Stack"
+      },
+      {
+        "question": "What does an algorithm typically start with?",
+        "options": [
+          "Input",
+          "Output",
+          "Initialization",
+          "Condition"
+        ],
+        "answer": "Initialization"
+      },
+      {
+        "question": "Which of the following is an example of a high-level programming language?",
+        "options": [
+          "Assembly",
+          "C++",
+          "Machine Code",
+          "Binary"
+        ],
+        "answer": "C++"
+      },
+      {
+        "question": "What is a variable in programming?",
+        "options": [
+          "A storage location identified by a memory address",
+          "A type of function",
+          "A syntax rule",
+          "A programming error"
+        ],
+        "answer": "A storage location identified by a memory address"
+      },
+      {
+        "question": "What does 'debugging' refer to in programming?",
+        "options": [
+          "Adding new features to a program",
+          "Removing errors from a program",
+          "Optimizing code for performance",
+          "Designing user interfaces"
+        ],
+        "answer": "Removing errors from a program"
+      },
+      {
+        "question": "Which control structure allows for decision making in code?",
+        "options": [
+          "Loop",
+          "Function",
+          "Condition",
+          "Array"
+        ],
+        "answer": "Condition"
+      },
+      {
+        "question": "What is the result of the expression 5 % 2 in programming?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "0"
+        ],
+        "answer": "1"
+      }
+    ]
   },
   "CSE111 ORIENTATION TO COMPUTING-I": {
-      "MCQs": [
-          {
-              "question": "What does CPU stand for?",
-              "options": [
-                  "Central Processing Unit",
-                  "Central Power Unit",
-                  "Computer Processing Unit",
-                  "Centralized Processing Unit"
-              ],
-              "answer": "Central Processing Unit"
-          },
-          {
-              "question": "Which of the following is a programming language?",
-              "options": [
-                  "HTML",
-                  "CSS",
-                  "Python",
-                  "SQL"
-              ],
-              "answer": "Python"
-          }
-      ]
+    "MCQs": [
+      {
+        "question": "What does CPU stand for?",
+        "options": [
+          "Central Processing Unit",
+          "Central Power Unit",
+          "Computer Processing Unit",
+          "Centralized Processing Unit"
+        ],
+        "answer": "Central Processing Unit"
+      },
+      {
+        "question": "Which of the following is a programming language?",
+        "options": [
+          "HTML",
+          "CSS",
+          "Python",
+          "SQL"
+        ],
+        "answer": "Python"
+      },
+      {
+        "question": "What is the function of RAM in a computer?",
+        "options": [
+          "To store data permanently",
+          "To perform calculations",
+          "To provide temporary storage for running programs",
+          "To control input and output devices"
+        ],
+        "answer": "To provide temporary storage for running programs"
+      },
+      {
+        "question": "Which part of the computer is responsible for executing instructions?",
+        "options": [
+          "Hard Drive",
+          "Motherboard",
+          "CPU",
+          "RAM"
+        ],
+        "answer": "CPU"
+      },
+      {
+        "question": "What does the term 'software' refer to?",
+        "options": [
+          "Physical components of a computer",
+          "Programs and operating systems",
+          "Network connections",
+          "Storage devices"
+        ],
+        "answer": "Programs and operating systems"
+      },
+      {
+        "question": "What is the main purpose of an operating system?",
+        "options": [
+          "To execute software applications",
+          "To manage hardware resources",
+          "To provide internet access",
+          "To store files permanently"
+        ],
+        "answer": "To manage hardware resources"
+      },
+      {
+        "question": "Which type of software is used to manage databases?",
+        "options": [
+          "Spreadsheet Software",
+          "Database Management System (DBMS)",
+          "Word Processing Software",
+          "Web Browser"
+        ],
+        "answer": "Database Management System (DBMS)"
+      },
+      {
+        "question": "What is the role of a compiler in programming?",
+        "options": [
+          "To execute code directly",
+          "To convert source code into machine code",
+          "To manage hardware resources",
+          "To handle user input"
+        ],
+        "answer": "To convert source code into machine code"
+      },
+      {
+        "question": "Which of the following is an example of a hardware component?",
+        "options": [
+          "Operating System",
+          "Web Browser",
+          "RAM",
+          "Database"
+        ],
+        "answer": "RAM"
+      },
+      {
+        "question": "What is an algorithm?",
+        "options": [
+          "A type of programming language",
+          "A set of instructions to solve a problem",
+          "A hardware component",
+          "A type of software application"
+        ],
+        "answer": "A set of instructions to solve a problem"
+      }
+    ]
   },
   "CSE326 INTERNET PROGRAMMING LABORATORY": {
-      "MCQs": [
-          {
-              "question": "Which language is commonly used for client-side scripting?",
-              "options": [
-                  "Python",
-                  "JavaScript",
-                  "Java",
-                  "C++"
-              ],
-              "answer": "JavaScript"
-          },
-          {
-              "question": "What does CSS stand for?",
-              "options": [
-                  "Cascading Style Sheets",
-                  "Computer Style Sheets",
-                  "Creative Style Sheets",
-                  "Central Style Sheets"
-              ],
-              "answer": "Cascading Style Sheets"
-          }
-      ]
+    "MCQs": [
+      {
+        "question": "Which language is commonly used for client-side scripting?",
+        "options": [
+          "Python",
+          "JavaScript",
+          "Java",
+          "C++"
+        ],
+        "answer": "JavaScript"
+      },
+      {
+        "question": "What does CSS stand for?",
+        "options": [
+          "Cascading Style Sheets",
+          "Computer Style Sheets",
+          "Creative Style Sheets",
+          "Central Style Sheets"
+        ],
+        "answer": "Cascading Style Sheets"
+      },
+      {
+        "question": "Which HTML tag is used to create a hyperlink?",
+        "options": [
+          "<a>",
+          "<link>",
+          "<img>",
+          "<button>"
+        ],
+        "answer": "<a>"
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "Hypertext Markup Language",
+          "Hyperlink and Text Markup Language",
+          "Hypertext and Multimedia Language",
+          "Hyperlink Text Markup Language"
+        ],
+        "answer": "Hypertext Markup Language"
+      },
+      {
+        "question": "Which CSS property is used to change the background color of an element?",
+        "options": [
+          "color",
+          "background-color",
+          "border-color",
+          "text-color"
+        ],
+        "answer": "background-color"
+      },
+      {
+        "question": "What does the 'alt' attribute in an HTML <img> tag do?",
+        "options": [
+          "Specifies the image's file format",
+          "Provides alternative text for an image",
+          "Sets the image's dimensions",
+          "Links the image to another page"
+        ],
+        "answer": "Provides alternative text for an image"
+      },
+      {
+        "question": "Which of the following is a valid JavaScript variable declaration?",
+        "options": [
+          "var name = 'John';",
+          "variable name = 'John';",
+          "let name == 'John';",
+          "const name : 'John';"
+        ],
+        "answer": "var name = 'John';"
+      },
+      {
+        "question": "How do you include an external JavaScript file in an HTML document?",
+        "options": [
+          "<script src='file.js'></script>",
+          "<link href='file.js'>",
+          "<script href='file.js'></script>",
+          "<javascript src='file.js'></javascript>"
+        ],
+        "answer": "<script src='file.js'></script>"
+      },
+      {
+        "question": "Which CSS property is used to change the font size?",
+        "options": [
+          "font-size",
+          "text-size",
+          "font-style",
+          "text-font"
+        ],
+        "answer": "font-size"
+      },
+      {
+        "question": "What does the 'display' property in CSS do?",
+        "options": [
+          "Sets the visibility of an element",
+          "Specifies the layout behavior of an element",
+          "Sets the color of text",
+          "Changes the size of an element"
+        ],
+        "answer": "Specifies the layout behavior of an element"
+      }
+    ]
   },
   "ECE249 BASIC ELECTRICAL AND ELECTRONICS ENGINEERING": {
-      "MCQs": [
-          {
-              "question": "What is the unit of electrical resistance?",
-              "options": [
-                  "Ohm",
-                  "Volt",
-                  "Ampere",
-                  "Watt"
-              ],
-              "answer": "Ohm"
-          },
-          {
-              "question": "Which of the following is a semiconductor material?",
-              "options": [
-                  "Copper",
-                  "Aluminum",
-                  "Silicon",
-                  "Gold"
-              ],
-              "answer": "Silicon"
-          }
-      ]
+    "MCQs": [
+      {
+        "question": "What is the unit of electrical resistance?",
+        "options": [
+          "Ohm",
+          "Volt",
+          "Ampere",
+          "Watt"
+        ],
+        "answer": "Ohm"
+      },
+      {
+        "question": "Which of the following is a semiconductor material?",
+        "options": [
+          "Copper",
+          "Aluminum",
+          "Silicon",
+          "Gold"
+        ],
+        "answer": "Silicon"
+      },
+      {
+        "question": "What does Ohm's Law state?",
+        "options": [
+          "V = I * R",
+          "P = V * I",
+          "E = mc²",
+          "F = ma"
+        ],
+        "answer": "V = I * R"
+      },
+      {
+        "question": "What is the unit of electrical power?",
+        "options": [
+          "Joule",
+          "Ohm",
+          "Watt",
+          "Volt"
+        ],
+        "answer": "Watt"
+      },
+      {
+        "question": "In a series circuit, how does the total resistance compare to individual resistances?",
+        "options": [
+          "Total resistance is the sum of individual resistances",
+          "Total resistance is the reciprocal of the sum of reciprocals of individual resistances",
+          "Total resistance is equal to the smallest individual resistance",
+          "Total resistance is equal to the largest individual resistance"
+        ],
+        "answer": "Total resistance is the sum of individual resistances"
+      },
+      {
+        "question": "What is the primary function of a transistor?",
+        "options": [
+          "To store electrical energy",
+          "To amplify signals",
+          "To measure current",
+          "To convert AC to DC"
+        ],
+        "answer": "To amplify signals"
+      },
+      {
+        "question": "Which type of capacitor is commonly used in power supplies?",
+        "options": [
+          "Electrolytic Capacitor",
+          "Ceramic Capacitor",
+          "Tantalum Capacitor",
+          "Film Capacitor"
+        ],
+        "answer": "Electrolytic Capacitor"
+      },
+      {
+        "question": "What is the purpose of a diode in a circuit?",
+        "options": [
+          "To allow current to flow in both directions",
+          "To allow current to flow in one direction only",
+          "To store electrical energy",
+          "To measure voltage"
+        ],
+        "answer": "To allow current to flow in one direction only"
+      },
+      {
+        "question": "What is the function of a transformer?",
+        "options": [
+          "To change the voltage level",
+          "To amplify signals",
+          "To store electrical energy",
+          "To convert AC to DC"
+        ],
+        "answer": "To change the voltage level"
+      },
+      {
+        "question": "What is the principle behind the operation of an inductor?",
+        "options": [
+          "Inductors oppose changes in current",
+          "Inductors oppose changes in voltage",
+          "Inductors store electrical energy as electric field",
+          "Inductors convert AC to DC"
+        ],
+        "answer": "Inductors oppose changes in current"
+      }
+    ]
   },
   "ECE279 BASIC ELECTRICAL AND ELECTRONICS ENGINEERING LABORATORY": {
-      "MCQs": [
-          {
-              "question": "What instrument is used to measure electrical current?",
-              "options": [
-                  "Voltmeter",
-                  "Ammeter",
-                  "Ohmmeter",
-                  "Oscilloscope"
-              ],
-              "answer": "Ammeter"
-          },
-          {
-              "question": "In an AC circuit, what does RMS stand for?",
-              "options": [
-                  "Root Mean Square",
-                  "Random Mean Square",
-                  "Regular Mean Square",
-                  "Real Mean Square"
-              ],
-              "answer": "Root Mean Square"
-          }
-      ]
+    "MCQs": [
+      {
+        "question": "What instrument is used to measure electrical current?",
+        "options": [
+          "Voltmeter",
+          "Ammeter",
+          "Ohmmeter",
+          "Oscilloscope"
+        ],
+        "answer": "Ammeter"
+      },
+      {
+        "question": "In an AC circuit, what does RMS stand for?",
+        "options": [
+          "Root Mean Square",
+          "Random Mean Square",
+          "Regular Mean Square",
+          "Real Mean Square"
+        ],
+        "answer": "Root Mean Square"
+      },
+      {
+        "question": "What is the purpose of a multimeter?",
+        "options": [
+          "To measure voltage, current, and resistance",
+          "To measure inductance",
+          "To measure capacitance",
+          "To amplify signals"
+        ],
+        "answer": "To measure voltage, current, and resistance"
+      },
+      {
+        "question": "Which type of resistor is used for precise resistance values?",
+        "options": [
+          "Variable Resistor",
+          "Carbon Composition Resistor",
+          "Metal Film Resistor",
+          "Wire Wound Resistor"
+        ],
+        "answer": "Metal Film Resistor"
+      },
+      {
+        "question": "What is the function of an oscilloscope?",
+        "options": [
+          "To measure resistance",
+          "To display electrical signals",
+          "To amplify sound",
+          "To store electrical energy"
+        ],
+        "answer": "To display electrical signals"
+      },
+      {
+        "question": "Which component is used to store electrical energy temporarily?",
+        "options": [
+          "Capacitor",
+          "Resistor",
+          "Inductor",
+          "Diode"
+        ],
+        "answer": "Capacitor"
+      },
+      {
+        "question": "In a series circuit, how does the current compare across components?",
+        "options": [
+          "The current is the same through all components",
+          "The current varies with each component",
+          "The current is highest in the resistor",
+          "The current is highest in the capacitor"
+        ],
+        "answer": "The current is the same through all components"
+      },
+      {
+        "question": "What is the unit of capacitance?",
+        "options": [
+          "Ohm",
+          "Hertz",
+          "Farad",
+          "Henry"
+        ],
+        "answer": "Farad"
+      },
+      {
+        "question": "What is the primary function of a potentiometer?",
+        "options": [
+          "To measure voltage",
+          "To vary resistance",
+          "To store electrical energy",
+          "To measure current"
+        ],
+        "answer": "To vary resistance"
+      },
+      {
+        "question": "Which of the following components is used to rectify AC to DC?",
+        "options": [
+          "Transformer",
+          "Diode",
+          "Capacitor",
+          "Inductor"
+        ],
+        "answer": "Diode"
+      }
+    ]
   },
   "INT108 PYTHON PROGRAMMING": {
-      "MCQs": [
-          {
-              "question": "Which of the following is a valid Python variable name?",
-              "options": [
-                  "1_variable",
-                  "variable_1",
-                  "variable@1",
-                  "variable 1"
-              ],
-              "answer": "variable_1"
-          },
-          {
-              "question": "What does 'print()' function do in Python?",
-              "options": [
-                  "Prints text to the console",
-                  "Returns a value",
-                  "Reads input from the user",
-                  "Creates a new file"
-              ],
-              "answer": "Prints text to the console"
-          }
-      ]
+    "MCQs": [
+      {
+        "question": "Which of the following is a valid Python variable name?",
+        "options": [
+          "1_variable",
+          "variable_1",
+          "variable@1",
+          "variable 1"
+        ],
+        "answer": "variable_1"
+      },
+      {
+        "question": "What does 'print()' function do in Python?",
+        "options": [
+          "Prints text to the console",
+          "Returns a value",
+          "Reads input from the user",
+          "Creates a new file"
+        ],
+        "answer": "Prints text to the console"
+      },
+      {
+        "question": "Which data type is used to represent text in Python?",
+        "options": [
+          "int",
+          "float",
+          "str",
+          "list"
+        ],
+        "answer": "str"
+      },
+      {
+        "question": "What is the output of the expression '3 * 2 ** 2' in Python?",
+        "options": [
+          "12",
+          "9",
+          "8",
+          "6"
+        ],
+        "answer": "12"
+      },
+      {
+        "question": "How do you create a function in Python?",
+        "options": [
+          "def function_name():",
+          "function function_name():",
+          "create function_name():",
+          "func function_name():"
+        ],
+        "answer": "def function_name():"
+      },
+      {
+        "question": "What is the purpose of the 'self' keyword in Python?",
+        "options": [
+          "To refer to the instance of the class",
+          "To create a new class",
+          "To define a new function",
+          "To refer to global variables"
+        ],
+        "answer": "To refer to the instance of the class"
+      },
+      {
+        "question": "How do you add an element to a list in Python?",
+        "options": [
+          "list.append(element)",
+          "list.add(element)",
+          "list.insert(element)",
+          "list.push(element)"
+        ],
+        "answer": "list.append(element)"
+      },
+      {
+        "question": "Which operator is used for exponentiation in Python?",
+        "options": [
+          "+",
+          "-",
+          "*",
+          "**"
+        ],
+        "answer": "**"
+      },
+      {
+        "question": "What is the result of 'len([1, 2, 3])' in Python?",
+        "options": [
+          "3",
+          "2",
+          "1",
+          "4"
+        ],
+        "answer": "3"
+      },
+      {
+        "question": "How do you handle exceptions in Python?",
+        "options": [
+          "try...except",
+          "catch...finally",
+          "throw...catch",
+          "handle...error"
+        ],
+        "answer": "try...except"
+      }
+    ]
   },
   "INT306 DATABASE MANAGEMENT SYSTEMS": {
-      "MCQs": [
-          {
-              "question": "Which SQL statement is used to extract data from a database?",
-              "options": [
-                  "SELECT",
-                  "INSERT",
-                  "UPDATE",
-                  "DELETE"
-              ],
-              "answer": "SELECT"
-          },
-          {
-              "question": "What does DBMS stand for?",
-              "options": [
-                  "Database Management System",
-                  "Data Base Management Service",
-                  "Database Management Service",
-                  "Data Base Management System"
-              ],
-              "answer": "Database Management System"
-          }
-      ]
+    "MCQs": [
+      {
+        "question": "Which SQL statement is used to extract data from a database?",
+        "options": [
+          "SELECT",
+          "INSERT",
+          "UPDATE",
+          "DELETE"
+        ],
+        "answer": "SELECT"
+      },
+      {
+        "question": "What does DBMS stand for?",
+        "options": [
+          "Database Management System",
+          "Data Base Management Service",
+          "Database Management Service",
+          "Data Base Management System"
+        ],
+        "answer": "Database Management System"
+      },
+      {
+        "question": "Which SQL keyword is used to prevent duplicate records?",
+        "options": [
+          "DISTINCT",
+          "UNIQUE",
+          "PRIMARY KEY",
+          "FOREIGN KEY"
+        ],
+        "answer": "DISTINCT"
+      },
+      {
+        "question": "What is a foreign key in a database?",
+        "options": [
+          "A key used to uniquely identify a record",
+          "A key used to link records in different tables",
+          "A key used to prevent duplicate records",
+          "A key used for indexing"
+        ],
+        "answer": "A key used to link records in different tables"
+      },
+      {
+        "question": "What is the purpose of the 'JOIN' clause in SQL?",
+        "options": [
+          "To combine rows from two or more tables based on a related column",
+          "To sort data",
+          "To filter records",
+          "To update records"
+        ],
+        "answer": "To combine rows from two or more tables based on a related column"
+      },
+      {
+        "question": "What is a primary key in a database?",
+        "options": [
+          "A key used to uniquely identify a record",
+          "A key used to link records in different tables",
+          "A key used for indexing",
+          "A key used to prevent duplicate records"
+        ],
+        "answer": "A key used to uniquely identify a record"
+      },
+      {
+        "question": "Which SQL statement is used to modify existing records in a database?",
+        "options": [
+          "UPDATE",
+          "INSERT",
+          "DELETE",
+          "SELECT"
+        ],
+        "answer": "UPDATE"
+      },
+      {
+        "question": "What does the 'GROUP BY' clause do in SQL?",
+        "options": [
+          "Groups rows that have the same values into summary rows",
+          "Sorts data in ascending order",
+          "Filters records based on a condition",
+          "Combines rows from multiple tables"
+        ],
+        "answer": "Groups rows that have the same values into summary rows"
+      },
+      {
+        "question": "What is a subquery in SQL?",
+        "options": [
+          "A query nested inside another query",
+          "A query used to create a new table",
+          "A query used to update records",
+          "A query used to delete records"
+        ],
+        "answer": "A query nested inside another query"
+      },
+      {
+        "question": "What does the 'HAVING' clause do in SQL?",
+        "options": [
+          "Filters records after the 'GROUP BY' clause",
+          "Filters records before the 'GROUP BY' clause",
+          "Joins two tables",
+          "Sorts data in descending order"
+        ],
+        "answer": "Filters records after the 'GROUP BY' clause"
+      }
+    ]
   },
   "MEC136 ENGINEERING GRAPHICS AND DIGITAL FABRICATION": {
-      "MCQs": [
-          {
-              "question": "What tool is commonly used for creating technical drawings?",
-              "options": [
-                  "Computer-Aided Design (CAD)",
-                  "Text Editor",
-                  "Spreadsheet Software",
-                  "Database Software"
-              ],
-              "answer": "Computer-Aided Design (CAD)"
-          },
-          {
-              "question": "Which of the following is not a type of projection?",
-              "options": [
-                  "Isometric Projection",
-                  "Orthographic Projection",
-                  "Perspective Projection",
-                  "Digital Projection"
-              ],
-              "answer": "Digital Projection"
-          }
-      ]
+    "MCQs": [
+      {
+        "question": "What tool is commonly used for creating technical drawings?",
+        "options": [
+          "Computer-Aided Design (CAD)",
+          "Text Editor",
+          "Spreadsheet Software",
+          "Database Software"
+        ],
+        "answer": "Computer-Aided Design (CAD)"
+      },
+      {
+        "question": "Which of the following is not a type of projection?",
+        "options": [
+          "Isometric Projection",
+          "Orthographic Projection",
+          "Perspective Projection",
+          "Digital Projection"
+        ],
+        "answer": "Digital Projection"
+      },
+      {
+        "question": "What is the purpose of sectioning in engineering drawings?",
+        "options": [
+          "To show internal features of an object",
+          "To display color schemes",
+          "To illustrate motion",
+          "To represent textures"
+        ],
+        "answer": "To show internal features of an object"
+      },
+      {
+        "question": "Which line type is used to represent the boundary of an object in technical drawings?",
+        "options": [
+          "Object Line",
+          "Center Line",
+          "Hidden Line",
+          "Section Line"
+        ],
+        "answer": "Object Line"
+      },
+      {
+        "question": "What does a dimensioning system indicate in engineering drawings?",
+        "options": [
+          "The size and location of features",
+          "The color of the object",
+          "The material used",
+          "The weight of the object"
+        ],
+        "answer": "The size and location of features"
+      },
+      {
+        "question": "Which of the following is a standard format for technical drawing sheets?",
+        "options": [
+          "A4",
+          "A3",
+          "A2",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "What is the function of an auxiliary view in technical drawings?",
+        "options": [
+          "To show features not visible in the principal views",
+          "To display color details",
+          "To illustrate dimensions",
+          "To represent textures"
+        ],
+        "answer": "To show features not visible in the principal views"
+      },
+      {
+        "question": "What type of drawing represents an object's shape as it would appear from the front?",
+        "options": [
+          "Front View",
+          "Top View",
+          "Side View",
+          "Isometric View"
+        ],
+        "answer": "Front View"
+      },
+      {
+        "question": "Which of the following is a type of solid modeling?",
+        "options": [
+          "Wireframe Modeling",
+          "Surface Modeling",
+          "Boolean Modeling",
+          "Sketch Modeling"
+        ],
+        "answer": "Boolean Modeling"
+      },
+      {
+        "question": "What is the purpose of using scales in technical drawings?",
+        "options": [
+          "To represent objects at a reduced or enlarged size",
+          "To add color details",
+          "To show internal features",
+          "To illustrate motion"
+        ],
+        "answer": "To represent objects at a reduced or enlarged size"
+      }
+    ]
   },
   "MTH174 ENGINEERING MATHEMATICS": {
-      "MCQs": [
-          {
-              "question": "What is the derivative of sin(x)?",
-              "options": [
-                  "cos(x)",
-                  "sin(x)",
-                  "-cos(x)",
-                  "-sin(x)"
-              ],
-              "answer": "cos(x)"
-          },
-          {
-              "question": "What is the integral of 1/x dx?",
-              "options": [
-                  "ln|x| + C",
-                  "x + C",
-                  "1/x + C",
-                  "x^2/2 + C"
-              ],
-              "answer": "ln|x| + C"
-          }
-      ]
-  },
-  "MTH401 DISCRETE MATHEMATICS": {
-      "MCQs": [
-        {
-                "question": "The value of Δ⁵{x⁴ + 5x³ – 6x + 10} is",
-                "options": [
-                   "24",
-                   "120",
-                   "0",
-                   "4"
-                ],
-                "answer": "0"
-              },
-              {
-                "question": "The value of Δ(2x + 1)², with h=1, is",
-                "options": [
-                   "(x + 2)",
-                   "4(x + 2)",
-                   "4(x + 1)",
-                   "(x² + 2)"
-                ],
-                "answer": "4(x + 2)"
-              },
-              {
-                "question": "The value of Δ²E³x is",
-                "options": [
-                   "5",
-                  "6",
-                   "0",
-                   "1"
-                ],
-                "answer": "0"
-              },
-              {
-                "question": "The functions 2ⁿ sin kθ, 2ⁿ cos kθ are linearly independent, if",
-                "options": [
-                    "θ = nπ, n ∈ ℤ",
-                   "θ ≠ nπ, n ∈ ℤ",
-                   "θ = 2nπ, n ∈ ℤ",
-                   "θ = nπ / 2, n ∈ ℤ"
-                ],
-                "answer": "θ ≠ nπ, n ∈ ℤ"
-              },
-              {
-                "question": "The particular solution of the difference equation yₖ₊₂ - 4yₖ₊₁ + 4yₖ = 0 such that y₀ = 1 and y₁ = 3 is",
-                "options": [
-                   "2ᵏ (1 + k²)",
-                   "2ᵏ (1 - k / 2)",
-                   "2ᵏ",
-                   "2ᵏ (2 + k / 2)"
-                ],
-                "answer": "2ᵏ (1 + k²)"
-              },
-              {
-                "question": "According to method of undetermined coefficients, the trial solution for R(k) = βᵏ is",
-                "options": [
-                   "Aβᵏ",
-                   "(A + B)βᵏ",
-                   "(A - B)βᵏ",
-                   "(Aβ)βᵏ"
-                ],
-                "answer": "Aβᵏ"
-              },
-              {
-                "question": "According to method of undetermined coefficients, the trial solution for R(k) = sin αk is",
-                "options": [
-                   "A sin αk",
-                   "A cos αk + B sin αk",
-                   "A cos αk",
-                   "A² cos αk - B² sin αk"
-                ],
-                "answer": "A cos αk + B sin αk"
-              },
-              {
-                "question": "According to method of undetermined coefficients, the trial solution for polynomial P(k) of degree 2 is",
-                "options": [
-                   "A₀k² + A₁k + A₂",
-                   "A₀k² + A₁",
-                   "A₀k²",
-                   "A₀k + A₁"
-                ],
-                "answer": "A₀k² + A₁k + A₂"
-              },
-              {
-                "question": "Let A={1,2,3,4,6}. Let R be the relation on A defined by {(a,b):a∈A, b∈A, a divides b}. Range of R is",
-                "options": [
-                  "{1,2,3,4,6}",
-                  "{1,3,4,6}",
-                  "{1,2,3,6}",
-                  "∅"
-                ],
-                "answer": "{1,2,3,6}"
-              },
-              {
-                "question": "Let A={x,y} and B={1,2}. Find the number of relations from A into B.",
-                "options": [
-                   "16",
-                   "32",
-                   "64",
-                   "128"
-                ],
-                "answer": "64"
-              },
-              {
-                "question": "Let A={1,2,3,4}. Let R be the relation on A defined by {(a,b):a∈A, b∈A, a<b}. Which of the following is false",
-                "options": [
-                   "R is not reflexive",
-                   "R is transitive",
-                   "R is transitive but not reflexive",
-                   "R is equivalence relation"
-                ],
-                "answer": "R is equivalence relation"
-              },
-              {
-                "question": "The 'Subset' relation on set of sets is",
-                "options": [ 
-                   "A partial ordering",
-                   "An equivalence relation",
-                   "Transitive and symmetric only",
-                   "Transitive and anti-symmetric only"
-              ],
-                "answer": "Transitive and anti-symmetric only"
-              }
-            ]        
-  },
-  "CSE320 SOFTWARE ENGINEERING": {
-      "MCQs": [
-          {
-              "question": "Which of the following is an example of a soft skill?",
-              "options": [
-                  "Technical Writing",
-                  "Programming",
-                  "Communication",
-                  "Mathematics"
-              ],
-              "answer": "Communication"
-          },
-          {
-              "question": "What is important in effective teamwork?",
-              "options": [
-                  "Individual performance",
-                  "Clear communication",
-                  "Solo work",
-                  "Technical knowledge"
-              ],
-              "answer": "Clear communication"
-          }
-      ]
-  },
-  "PHY110 ENGINEERING PHYSICS": {
-      "MCQs": [
-          {
-              "question": "What is the speed of light in a vacuum?",
-              "options": [
-                  "3 × 10^8 m/s",
-                  "3 × 10^6 m/s",
-                  "3 × 10^9 m/s",
-                  "3 × 10^7 m/s"
-              ],
-              "answer": "3 × 10^8 m/s"
-          },
-          {
-              "question": "Which law states that for every action there is an equal and opposite reaction?",
-              "options": [
-                  "Newton's First Law",
-                  "Newton's Second Law",
-                  "Newton's Third Law",
-                  "Law of Universal Gravitation"
-              ],
-              "answer": "Newton's Third Law"
-          }
-      ]
+    "MCQs": [
+      {
+        "question": "What is the derivative of sin(x)?",
+        "options": [
+          "cos(x)",
+          "sin(x)",
+          "-cos(x)",
+          "-sin(x)"
+        ],
+        "answer": "cos(x)"
+      },
+      {
+        "question": "What is the integral of 1/x dx?",
+        "options": [
+          "ln|x| + C",
+          "x + C",
+          "1/x + C",
+          "x^2/2 + C"
+        ],
+        "answer": "ln|x| + C"
+      },
+      {
+        "question": "What is the solution to the differential equation dy/dx = 2x?",
+        "options": [
+          "x² + C",
+          "2x + C",
+          "x²",
+          "2x² + C"
+        ],
+        "answer": "x² + C"
+      },
+      {
+        "question": "What is the Taylor series expansion of e^x around x = 0?",
+        "options": [
+          "1 + x + x²/2! + x³/3! + ...",
+          "1 + x + x² + x³/3!",
+          "1 + x + x²/2 + x³/6",
+          "1 + x + x²/2 + x³/6 + ..."
+        ],
+        "answer": "1 + x + x²/2! + x³/3! + ..."
+      },
+      {
+        "question": "What is the Laplace transform of δ(t)?",
+        "options": [
+          "1",
+          "t",
+          "e^(-s)",
+          "0"
+        ],
+        "answer": "1"
+      },
+      {
+        "question": "What is the value of the limit lim x→0 (sin(x)/x)?",
+        "options": [
+          "1",
+          "0",
+          "∞",
+          "-1"
+        ],
+        "answer": "1"
+      },
+      {
+        "question": "What is the inverse function of f(x) = x^2?",
+        "options": [
+          "√x",
+          "x/2",
+          "1/x",
+          "x²"
+        ],
+        "answer": "√x"
+      },
+      {
+        "question": "What is the solution to the integral ∫ x² dx?",
+        "options": [
+          "x³/3 + C",
+          "2x + C",
+          "x² + C",
+          "x³ + C"
+        ],
+        "answer": "x³/3 + C"
+      },
+      {
+        "question": "What is the double integral of 1 over the region [0,1] x [0,1]?",
+        "options": [
+          "1",
+          "0",
+          "2",
+          "4"
+        ],
+        "answer": "1"
+      },
+      {
+        "question": "What is the Fourier series expansion of a square wave?",
+        "options": [
+          "A series of odd harmonics",
+          "A series of even harmonics",
+          "A single harmonic",
+          "A constant series"
+        ],
+        "answer": "A series of odd harmonics"
+      }
+    ]
   }
 }
